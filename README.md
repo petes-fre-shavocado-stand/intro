@@ -7,14 +7,13 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
+# Introduction to GitHubdfasdf
+fd
 
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
+  <<< Author notes: Step 1 >>>sdf
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
